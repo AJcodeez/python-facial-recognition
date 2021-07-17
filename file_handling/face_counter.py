@@ -8,7 +8,7 @@ from cv2 import *
 
 face_data = CascadeClassifier('haarcascade_frontalface_default.xml')
 
-dir = listdir('C:/images')
+dir = listdir('D:/images')
 
 count = 0
 

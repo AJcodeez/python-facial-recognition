@@ -19,7 +19,7 @@ while True:
     waitKey(2000)
 
     ss = screenshot()
-    ss.save(rf'C:\images\{name}')
+    ss.save(rf'D:\images\{name}')
 
     browser.refresh()
 

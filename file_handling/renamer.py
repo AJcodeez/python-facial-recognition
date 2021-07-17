@@ -3,7 +3,7 @@
 
 from os import rename, listdir 
 
-dir = 'C:\images'
+dir = 'D:\images'
 
 count = 1 
 

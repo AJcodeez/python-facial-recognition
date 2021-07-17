@@ -1,2 +1,1 @@
-# python-facial-recognition
- Facial tasks with Python 3.9
+This is my first repository on GitHub. I will be using python to create AI which will detect faces and smiles on them, as well as analyze the existing AI created by MIT, thispersondoesnotexist.com.

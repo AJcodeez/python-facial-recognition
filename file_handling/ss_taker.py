@@ -9,7 +9,7 @@ from cv2 import waitKey
 browser = webdriver.Chrome()
 browser.get('https://thispersondoesnotexist.com')
 
-c = 0
+c = 1
 
 while True:
 

@@ -8,6 +8,6 @@ dir = 'D:\images'
 count = 1 
 
 for file in listdir(dir):
-    rename(rf'C:\images\{file}',rf'C:\images\{count}.png')
+    rename(rf'D:\images\{file}',rf'D:\images\{count}.png')
     count += 1 
 

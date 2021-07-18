@@ -1,7 +1,5 @@
 # here we will be counting the number of faces detected from the images we saved 
-# this will give us the accuracy of the algorithm developed by opencv 
-# i ran it on a database of pictures of AI-generated faces and it returned as 100 percent accurate
-# you can use any dataset you want  
+# this will give us the accuracy of the algorithm developed by opencv, or how real the AI-generated faces were 
 
 from os import listdir
 from cv2 import * 

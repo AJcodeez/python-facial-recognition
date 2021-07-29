@@ -1,8 +1,7 @@
 '''
 This is where we will understand any racial bias in the AI on thispersondoesnotexist.com.
 The numbers of faces with different races will be printed as output.
-There will be some images with poorly made faces, and we will thus know how good the AI is at making real-looking.
-Faces from the number of files with no faces detected.
+There will be some images with poorly made faces, and we will thus know how good the AI is at making real-looking faces from the number of files with no faces detected.
 Unfortunately this only worked when all of the images were in the same directory as this file, as well as the directory which I have provided to the code.
 
 '''

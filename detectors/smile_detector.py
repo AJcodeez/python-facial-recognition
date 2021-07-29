@@ -1,3 +1,10 @@
+'''
+here we will use the same code in the face detector, along with some more to detect a smile 
+if a smile is detected (using haarcascades) then 'smiling' will show beneath the box surrouding the face
+again, the .xml file with the smile haarcascades must be in the same directory as this file for it to work 
+
+'''
+
 from cv2 import * 
 
 

@@ -2,7 +2,7 @@
 # i know that i should use urlretrieve, but i get http error 403 so im using this workaround 
 
 from selenium import webdriver 
-from pyautogui import * 
+import pyautogui 
 from cv2 import waitKey
 
 
@@ -18,7 +18,7 @@ while True:
     
     waitKey(2000)
 
-    ss = screenshot()
+    ss = pyautogui.screenshot()
     ss.save(rf'D:\images\{name}')
 
     browser.refresh()

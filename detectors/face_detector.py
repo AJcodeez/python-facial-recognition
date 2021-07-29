@@ -1,3 +1,14 @@
+'''
+we will be using haarcascades, a lightweight solution for detecting faces
+when a face is detected, we will draw a rectangle around the face 
+webcam feed will be used 
+the .xml file with the haarcascade must be in the same directory as this file for it to work
+keep in mind that haarcascades and the opencv function is optimised for speed instead of accuracy 
+the following link will provide an explanation and demonstration of haarcascades:
+https://towardsdatascience.com/computer-vision-detecting-objects-using-haar-cascade-classifier-4585472829a9
+
+'''
+
 from cv2 import *  
 
 

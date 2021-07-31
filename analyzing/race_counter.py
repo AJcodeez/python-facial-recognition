@@ -29,6 +29,7 @@ for img in dir:
 
         race = x['dominant_race']
 
+        print('On:', img)
 
         if race == 'asian':
             asian += 1 
